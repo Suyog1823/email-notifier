@@ -7,7 +7,7 @@ const path = require('path');
 const methodOverride = require('method-override');
 
 app.get('/', (req, res) => {
-    res.send('use /tracker to acess tracker');
+    res.send('use /tracker to acess trackersss');
 });
 
 const sgMail = require('@sendgrid/mail');
